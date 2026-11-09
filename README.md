@@ -4,5 +4,7 @@
 - :orange_book: 我的CSDN博客：https://blog.csdn.net/Sakura_zhl?type=blog
  
 - :hammer:  我的哔哩哔哩空间：https://space.bilibili.com/1502979438/
+- 我的学校邮箱地址：2024120443@mail.scuec.edu.cn
+- 我的qq邮箱地址：2606300430@qq.com
  
 
